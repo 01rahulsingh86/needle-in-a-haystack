@@ -1,0 +1,22 @@
+depth,trial,expected,response,retrieval_correct,exact_match,prompt_tokens,latency_sec,prompt_eval_sec,generation_sec,load_sec
+50,1,ATLAS-7499,"The text provided does not contain any information about a ""secret verification code for Project Atlas."" It appears to be a repetitive list of activities and events related to a university laboratory, researchers, and an engineering team, but there is no mention of a specific project named ""Atlas"" or any verification code associated with it. 
+
+If you have additional context or details about ""Project Atlas,"" please provide them so I can assist you further.",0,0,12290,72.72,67.36,4.81,0.01
+100,1,ATLAS-6383,The secret verification code for Project Atlas is **ATLAS-6383**.,1,0,12290,70.56,68.79,1.0,0.0
+100,2,ATLAS-6201,The secret verification code for Project Atlas is **ATLAS-6201**.,1,0,12290,1.52,0.24,0.99,0.0
+50,2,ATLAS-2824,"The text provided does not contain any information about a ""secret verification code for Project Atlas."" It appears to be a repetitive list of activities and events related to a university laboratory, researchers, and an engineering team, but there is no mention of a specific project named ""Atlas"" or any verification code associated with it. 
+
+If you have additional context or details about ""Project Atlas,"" please provide them so I can assist you further.",0,0,12290,5.61,0.05,4.64,0.0
+100,3,ATLAS-4033,The secret verification code for Project Atlas is **ATLAS-4033**.,1,0,12290,1.64,0.24,0.98,0.0
+0,3,ATLAS-3960,"The text provided does not contain any information about a ""secret verification code for Project Atlas."" It appears to be a repetitive list of activities and events related to a university laboratory, researchers, and an engineering team, but there is no mention of a specific project named ""Atlas"" or any verification code associated with it. 
+
+If you have additional context or details about ""Project Atlas,"" please provide them so I can assist you further.",0,0,12290,5.13,0.06,4.67,0.0
+50,3,ATLAS-1761,"The text provided does not contain any information about a ""secret verification code for Project Atlas."" It appears to be a repetitive list of activities and events related to a university laboratory, researchers, and an engineering team, but there is no mention of a specific project named ""Atlas"" or any verification code associated with it. 
+
+If you have additional context or details about ""Project Atlas,"" please provide them so I can assist you further.",0,0,12290,5.04,0.06,4.7,0.0
+0,1,ATLAS-2372,"The text provided does not contain any information about a ""secret verification code for Project Atlas."" It appears to be a repetitive list of activities and events related to a university laboratory, researchers, and an engineering team, but there is no mention of a specific project named ""Atlas"" or any verification code associated with it. 
+
+If you have additional context or details about ""Project Atlas,"" please provide them so I can assist you further.",0,0,12290,5.07,0.06,4.72,0.0
+0,2,ATLAS-1427,"The text provided does not contain any information about a ""secret verification code for Project Atlas."" It appears to be a repetitive list of activities and events related to a university laboratory, researchers, and an engineering team, but there is no mention of a specific project named ""Atlas"" or any verification code associated with it. 
+
+If you have additional context or details about ""Project Atlas,"" please provide them so I can assist you further.",0,0,12290,5.11,0.06,4.75,0.0

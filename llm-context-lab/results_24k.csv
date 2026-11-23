@@ -1,0 +1,4 @@
+target_tokens,requested_depth,actual_depth,trial,expected,answer,tokens_hf,tokens_ollama,input_valid,retrieval_correct,format_correct,elapsed_sec,prompt_eval_sec,generation_sec,load_sec,done_reason
+24000,50,50.09,1,ATLAS-1298,ATLAS-1298,23946,23962,1,1,1,174.46,172.09,0.41,1.82,stop
+24000,0,0.15,1,ATLAS-6951,ATLAS-6951,23946,23962,1,1,1,247.0,245.8,0.59,0.0,stop
+24000,100,99.87,1,ATLAS-8255,ATLAS-8255,23946,23962,1,1,1,187.59,185.98,0.78,0.0,stop
